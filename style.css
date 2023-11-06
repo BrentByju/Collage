@@ -1,0 +1,15 @@
+#Artists{
+   font-family: Arial, Helvetica, sans-serif; 
+   border-style: solid;
+   border-color: black;
+   border-width: 3px;
+   border-radius:15px;
+   text-align: center;
+}
+
+#Camera{
+width: 500px;
+height: 400px;
+border-color: rgb(103, 103, 248);
+}
+
